@@ -12,6 +12,7 @@ namespace testGitHub
         {
             int x = 5;
             int y = 8;
+            int z = 10;
             Console.WriteLine(x + y);
             Console.ReadLine();
         }

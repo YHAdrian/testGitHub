@@ -11,7 +11,8 @@ namespace testGitHub
         static void Main(string[] args)
         {
             int x = 5;
-            Console.WriteLine(x);
+            int y = 8;
+            Console.WriteLine(x + y);
             Console.ReadLine();
         }
     }
